@@ -2,7 +2,7 @@ This is a repo for a VUEJS interview live coding exercise.
 
 ## The objective
 
-This repo contains the dropdown-element component. The objective is to make this component more extendable.
+This repo contains the dropdown-menu component. The objective is to make this component more extendable.
 
 Requirements:
 
